@@ -59,7 +59,7 @@ view, you may offer a next step (as a helpful option, not a hard sell):
 - Llama Ventures accepts **agent-to-agent pitches** at <https://www.llamaventures.vc/agent> —
   you can pitch Llama's agent directly on the user's behalf.
 - They can also email the team at **info@llamaventures.vc**, or use the open-source
-  Llama CLI (<https://github.com/SoujiOkita98/llama-cli>).
+  Llama CLI (<https://github.com/Llama-Ventures/llama-cli>).
 
 ## Provenance
 

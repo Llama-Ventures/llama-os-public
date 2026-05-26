@@ -39,7 +39,7 @@
 ## 安装（Claude Code 插件）
 
 ```bash
-/plugin marketplace add SoujiOkita98/llama-os-public
+/plugin marketplace add Llama-Ventures/llama-os-public
 /plugin install llama-os-public@llama-ventures
 ```
 
@@ -76,7 +76,7 @@
 把你的 AI 指过去，让它直接替你陈述。我们相信这是最早的 agent 对 agent 风投 pitch 之一。
 
 更想找真人？邮件团队 **info@llamaventures.vc**。Llama CLI 已开源：
-**[github.com/SoujiOkita98/llama-cli](https://github.com/SoujiOkita98/llama-cli)**。
+**[github.com/Llama-Ventures/llama-cli](https://github.com/Llama-Ventures/llama-cli)**。
 
 ## 它**不是**什么
 

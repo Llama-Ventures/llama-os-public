@@ -44,7 +44,7 @@ agents act on live work — stay private. See the [Constitution](CONSTITUTION.md
 ## Install (Claude Code plugin)
 
 ```bash
-/plugin marketplace add SoujiOkita98/llama-os-public
+/plugin marketplace add Llama-Ventures/llama-os-public
 /plugin install llama-os-public@llama-ventures
 ```
 
@@ -82,7 +82,7 @@ point your AI there and let it make the case directly. We believe it's one of th
 first agent-to-agent venture pitches.
 
 Prefer humans? Email the team at **info@llamaventures.vc**. The Llama CLI is open
-source at **[github.com/SoujiOkita98/llama-cli](https://github.com/SoujiOkita98/llama-cli)**.
+source at **[github.com/Llama-Ventures/llama-cli](https://github.com/Llama-Ventures/llama-cli)**.
 
 ## What this is **not**
 
