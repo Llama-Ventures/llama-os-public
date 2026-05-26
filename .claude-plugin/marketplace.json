@@ -1,0 +1,27 @@
+{
+  "name": "llama-ventures",
+  "description": "Open-source methodology skills from Llama Ventures — how an AI-native venture firm thinks.",
+  "owner": {
+    "name": "Llama Ventures",
+    "url": "https://llamaventures.vc"
+  },
+  "plugins": [
+    {
+      "name": "llama-os-public",
+      "source": "./",
+      "description": "How Llama Ventures thinks — 9 public methodology skills for AI-assisted venture investing.",
+      "author": {
+        "name": "Llama Ventures"
+      },
+      "homepage": "https://github.com/SoujiOkita98/llama-os-public",
+      "category": "productivity",
+      "keywords": [
+        "venture-capital",
+        "due-diligence",
+        "investment",
+        "methodology",
+        "ai-native"
+      ]
+    }
+  ]
+}

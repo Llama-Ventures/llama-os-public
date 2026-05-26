@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "llama-os-public",
+  "version": "0.1.0",
+  "description": "How Llama Ventures thinks — public methodology skills for AI-assisted venture investing: investment philosophy, due-diligence frameworks, market-scale calibration, technical assessment, cognitive mapping, and a 100-investor perspective library.",
+  "author": {
+    "name": "Llama Ventures",
+    "url": "https://llamaventures.vc"
+  },
+  "homepage": "https://github.com/SoujiOkita98/llama-os-public",
+  "repository": "https://github.com/SoujiOkita98/llama-os-public",
+  "license": "Apache-2.0",
+  "keywords": [
+    "venture-capital",
+    "due-diligence",
+    "investment",
+    "methodology",
+    "vc",
+    "ai-native"
+  ],
+  "skills": "./skills/"
+}

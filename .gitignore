@@ -1,0 +1,9 @@
+# OS / editor cruft
+.DS_Store
+
+# Tooling state (must never be published)
+.omc/
+.claude/
+
+# Node
+node_modules/
