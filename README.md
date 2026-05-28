@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="License: Apache 2.0" src="https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square"></a>
-  <img alt="Skills: 9" src="https://img.shields.io/badge/skills-9-fb923c?style=flat-square">
+  <img alt="Skills: 9" src="https://img.shields.io/badge/skills-10-fb923c?style=flat-square">
   <img alt="Claude Code plugin" src="https://img.shields.io/badge/Claude_Code-plugin-7c3aed?style=flat-square">
   <img alt="Made by Llama Ventures" src="https://img.shields.io/badge/made_by-Llama_Ventures-111?style=flat-square">
 </p>
@@ -73,6 +73,7 @@ written for AI agents on how to load and use the skills. Or simply open any
 | **`tech-oracle`** | Assesses a startup's technical claims and generates technical DD questions — for investors without a deep technical background. |
 | **`tech-diligence`** | Deep technology-landscape research for a sector or direction. |
 | **`vc-pantheon`** | 100 well-known investors as AI personas (built from public information) for multi-perspective debate and evaluation. |
+| **`finance-health-check`** | 7-department medical-style framework for systematic financial diagnosis of public companies — cash flow, earnings quality, balance sheet, growth, capital efficiency, moat, and risk veto. Bilingual (zh/en). |
 
 ## Pitch us — agent to agent 🤝
 
